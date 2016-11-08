@@ -1,3 +1,6 @@
 {
-  "status": "crying"
+  "name": "Test Repo",
+  "author": "Ben Martin",
+  "license": "Apache",
+  "mbedos_version": "0.6"
 }

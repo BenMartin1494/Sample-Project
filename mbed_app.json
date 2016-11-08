@@ -2,5 +2,5 @@
   "name": "Test Repo",
   "author": "Ben Martin",
   "license": "Apache",
-  "mbedos_version": "0.6"
+  "mbedos_version": "5"
 }

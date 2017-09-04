@@ -37,7 +37,7 @@
         "sources": [ 
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
         ],           
-        "tags": ["references", "service-rest-apis"]     
+        "tags": ["reference", "service-rest-apis"]     
     },
     {                
         "title": "Client APIs",                
@@ -47,7 +47,7 @@
         "sources": [ 
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
         ],           
-        "tags": ["references", "client-apis"]     
+        "tags": ["reference", "client-apis"]     
     },
     {                
         "title": "Client SDKs",                
@@ -57,7 +57,7 @@
         "sources": [ 
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
         ],           
-        "tags": ["references", "client-sdks"]     
+        "tags": ["reference", "client-sdks"]     
     },
     {                
         "title": "Mbed Client",                

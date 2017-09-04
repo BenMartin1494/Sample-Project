@@ -1,0 +1,12 @@
+[                    
+    {                
+        "title": "Connect",                
+        "description": "Stuff to do with connecting things",                          
+        "slug": "mbed-cloud-connect",      
+        "type": "markdown",                
+        "sources": [ 
+                {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
+        ],           
+        "tags": ["primary", "connect"]     
+    }                
+]  

@@ -18,5 +18,15 @@
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
         ],           
         "tags": ["primary", "update"]     
-    }  
+    },
+    {                
+        "title": "Provision",                
+        "description": "Stuff to do with provisioning things",                          
+        "slug": "mbed-cloud-provision",      
+        "type": "markdown",                
+        "sources": [ 
+                {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
+        ],           
+        "tags": ["primary", "provision"]     
+    } 
 ]  

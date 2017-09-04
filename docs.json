@@ -58,5 +58,25 @@
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
         ],           
         "tags": ["references", "client-sdks"]     
+    },
+    {                
+        "title": "Mbed Client",                
+        "description": "Stuff to do with mbed client",                          
+        "slug": "mbed-cloud-mbed-client",      
+        "type": "markdown",                
+        "sources": [ 
+                {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
+        ],           
+        "tags": ["deprecated"]     
+    },
+    {                
+        "title": "Mbed Device Connector",                
+        "description": "Stuff to do with mbed device connector",                          
+        "slug": "mbed-cloud-mbed-device-connector",      
+        "type": "markdown",                
+        "sources": [ 
+                {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
+        ],           
+        "tags": ["deprecated"]     
     }
 ]  

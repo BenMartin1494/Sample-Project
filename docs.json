@@ -8,5 +8,15 @@
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
         ],           
         "tags": ["primary", "connect"]     
-    }                
+    },
+    {                
+        "title": "Update",                
+        "description": "Stuff to do with updating things",                          
+        "slug": "mbed-cloud-update",      
+        "type": "markdown",                
+        "sources": [ 
+                {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
+        ],           
+        "tags": ["primary", "update"]     
+    }  
 ]  

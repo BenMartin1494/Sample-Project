@@ -28,5 +28,35 @@
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
         ],           
         "tags": ["primary", "provision"]     
-    } 
+    },
+    {                
+        "title": "Service REST APIs",                
+        "description": "Stuff to do with service rest apis",                          
+        "slug": "mbed-cloud-service-rest-apis",      
+        "type": "markdown",                
+        "sources": [ 
+                {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
+        ],           
+        "tags": ["references", "service-rest-apis"]     
+    },
+    {                
+        "title": "Client APIs",                
+        "description": "Stuff to do with client apis",                          
+        "slug": "mbed-cloud-client-apis",      
+        "type": "markdown",                
+        "sources": [ 
+                {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
+        ],           
+        "tags": ["references", "client-apis"]     
+    },
+    {                
+        "title": "Client SDKs",                
+        "description": "Stuff to do with client sdks",                          
+        "slug": "mbed-cloud-client-sdks",      
+        "type": "markdown",                
+        "sources": [ 
+                {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
+        ],           
+        "tags": ["references", "client-sdks"]     
+    }
 ]  

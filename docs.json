@@ -44,7 +44,8 @@
 			{"type": "markdown", "url": "https://github.com/ARMmbed/manifest-tool-restricted/blob/v1.2rc2/README.md"},
 			{"type": "markdown", "url": "https://github.com/ARMmbed/manifest-tool-restricted/blob/v1.2rc2/manifest-format-0.9-draft.md"}
         ],
-	"category": "guide"
+	"category": "guide",
+	"subcategory": "devices"
     },
     {                
         "title": "Service REST APIs",                

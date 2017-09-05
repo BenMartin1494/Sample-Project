@@ -1,4 +1,15 @@
-[                    
+[                   
+    {
+        "title": "Introduction to mbed Cloud",
+        "description": "A review of the main features of mbed Cloud",
+        "slug": "mbed-cloud-intro",
+        "type": "markdown",
+        "example_panel": true,
+        "sources": [
+		{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
+	],
+	"category": "introduction"
+    },
     {                
         "title": "Connect",                
         "description": "Stuff to do with connecting things",                          

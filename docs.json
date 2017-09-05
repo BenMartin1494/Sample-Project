@@ -29,6 +29,19 @@
         ],           
         "tags": ["primary", "provision"]     
     },
+    {
+        "title": "Manage connected devices",
+        "description": "Update and configure deployed devices through mbed Cloud",
+        "slug": "mbed-cloud-management",
+        "type": "markdown",
+        "sources": [
+     		{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/management/management_intro.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/management/device_management.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/management/update_client_manage.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/manifest-tool-restricted/blob/v1.2rc2/README.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/manifest-tool-restricted/blob/v1.2rc2/manifest-format-0.9-draft.md"}
+        ]
+    },
     {                
         "title": "Service REST APIs",                
         "description": "Stuff to do with service rest apis",                          

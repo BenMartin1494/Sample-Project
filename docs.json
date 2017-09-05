@@ -6,8 +6,9 @@
         "type": "markdown",                
         "sources": [ 
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
-        ],           
-        "tags": ["primary", "connect"]     
+        ],
+	"category": "primary",
+        "tags": ["connect"]     
     },
     {                
         "title": "Update",                
@@ -16,8 +17,9 @@
         "type": "markdown",                
         "sources": [ 
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
-        ],           
-        "tags": ["primary", "update"]     
+        ],        
+	"category": "primary",
+        "tags": ["update"]     
     },
     {                
         "title": "Provision",                
@@ -26,8 +28,9 @@
         "type": "markdown",                
         "sources": [ 
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
-        ],           
-        "tags": ["primary", "provision"]     
+        ],
+	"category": "primary",
+        "tags": ["provision"]     
     },
     {
         "title": "Manage connected devices",
@@ -40,7 +43,8 @@
 			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/management/update_client_manage.md"},
 			{"type": "markdown", "url": "https://github.com/ARMmbed/manifest-tool-restricted/blob/v1.2rc2/README.md"},
 			{"type": "markdown", "url": "https://github.com/ARMmbed/manifest-tool-restricted/blob/v1.2rc2/manifest-format-0.9-draft.md"}
-        ]
+        ],
+	"category": "guide"
     },
     {                
         "title": "Service REST APIs",                
@@ -49,8 +53,9 @@
         "type": "markdown",                
         "sources": [ 
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
-        ],           
-        "tags": ["reference", "service-rest-apis"]     
+        ],
+	"category": "reference",
+        "tags": ["service-rest-apis"]     
     },
     {                
         "title": "Client APIs",                
@@ -59,8 +64,9 @@
         "type": "markdown",                
         "sources": [ 
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
-        ],           
-        "tags": ["reference", "client-apis"]     
+        ],        
+	"category": "reference",
+        "tags": ["client-apis"]     
     },
     {                
         "title": "Client SDKs",                
@@ -70,7 +76,8 @@
         "sources": [ 
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
         ],           
-        "tags": ["reference", "client-sdks"]     
+	"category": "reference",
+        "tags": ["client-sdks"]     
     },
     {                
         "title": "Mbed Client",                
@@ -79,8 +86,8 @@
         "type": "markdown",                
         "sources": [ 
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
-        ],           
-        "tags": ["deprecated"]     
+        ],
+	"category": "deprecated"    
     },
     {                
         "title": "Mbed Device Connector",                
@@ -90,6 +97,6 @@
         "sources": [ 
                 {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
         ],           
-        "tags": ["deprecated"]     
+        "category": "deprecated"     
     }
 ]  

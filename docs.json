@@ -238,7 +238,8 @@
         "type": "markdown",
         "sources": [
             {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/hdk.md"}
-        ]
+        ],
+	"tags": ["how-to-get-mbed-os"]
     },
     {
         "title": "mbed OS API doxygen",

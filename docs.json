@@ -11,6 +11,17 @@
         "tags": ["introduction"]
     },
     {
+        "title": "Porting to Mbed OS 5",
+        "description": "Supporting Mbed OS on new platforms",
+        "slug": "porting",
+        "type": "markdown",
+        "sources": [
+          {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/intros/introduction.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/intros/terms.md"}
+        ],
+        "tags": ["porting"]
+    },
+    {
         "title": "References",
         "description": "The reference manual for mbed OS: APIs, configuration and implementation details",
         "slug": "reference",

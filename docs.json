@@ -7,7 +7,8 @@
         "sources": [
           {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/intros/introduction.md"},
           {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/intros/terms.md"}
-        ]
+        ],
+	"tags": ["introduction"]
     },
     {
         "title": "References",
@@ -93,7 +94,8 @@
             {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/refs/mesh/16_Porting_MAC.md"},
 	    {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/refs/how_to_document.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/tutorials/patterns/writing_embedded_apps.md"}
-        ]
+        ],
+	"tags": ["references"]
     },
     {
         "title": "Tools",
@@ -129,7 +131,8 @@
           {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/tools/testing/greentea.md"},
           {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/tools/testing/htrun.md"},
           {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/tools/testing/utest.md"}
-        ]
+        ],
+	"tags": ["tools"]
     },
     {
         "title": "Tutorials",
@@ -182,7 +185,8 @@
             {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/tutorials/patterns/patterns/interactions.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/tutorials/http_server.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/tutorials/ble_tutorial.md"}
-        ]
+        ],
+	"tags": ["tutorials"]
     },
     {
         "title": "Contributing",

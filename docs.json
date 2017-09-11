@@ -212,7 +212,8 @@
             {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/contributing/config_system.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/contributing/MINAR_migration.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/contributing/testing_the_port.md"}
-        ]
+        ],
+	"tags": ["porting"]
     },
     {
         "title": "Releases",
@@ -227,7 +228,8 @@
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_os_release_notes/blob/new_engine/Docs/5_3/release_note.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_os_release_notes/blob/new_engine/Docs/5_2/release_note.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_os_release_notes/blob/new_engine/Docs/5_1/release_note.md"}
-        ]
+        ],
+	"tags": ["releases"]
     },
     {
         "title": "Hardware development kit",
@@ -237,7 +239,7 @@
         "type": "markdown",
         "sources": [
             {"type": "markdown", "url": "https://github.com/ARMmbed/Handbook/blob/new_engine/docs/hdk.md"}
-        ]
+        ] 
     },
     {
         "title": "mbed OS API doxygen",

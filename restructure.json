@@ -9,7 +9,8 @@
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/intro/setting_up.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/intro/checklist.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/intro/mbed_cloud_glossary.md"}
-            ]
+            ],
+	"category": "introduction"
     },
     {
         "title": "Mbed Cloud Connect",
@@ -18,7 +19,9 @@
         "type": "markdown",
         "sources": [
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/connect/connect_intro.md"}
-        ]
+        ],
+	"category": "primary",
+	"tags": ["connect"]
     },
     {
         "title": "Mbed Cloud Update",
@@ -27,7 +30,9 @@
         "type": "markdown",
         "sources": [
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/update/update_intro.md"}
-        ]
+        ],
+	"category": "primary",
+	"tags": ["update"]
     },
     {
         "title": "Mbed Cloud Provision",
@@ -36,7 +41,9 @@
         "type": "markdown",
         "sources": [
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/provision/provision_intro.md"}
-        ]
+        ],
+	"category": "primary",
+	"tags": ["provision"]
     },
     {
         "title": "Mbed Cloud Edge",

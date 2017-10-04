@@ -584,7 +584,7 @@
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed-client/blob/new-engine/docs/porting-guide.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed-client/blob/new-engine/docs/further-reading.md"}
         ],
-	"category": "deprecated"
+	"category": "legacy"
    },
    {
         "title": "Getting started with Mbed Device Connector",
@@ -597,7 +597,7 @@
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed-device-connector-documentation/blob/new-engine/docs/Quick-guide.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed-device-connector-documentation/blob/new-engine/docs/Further-reading.md"}
         ],
-	"category": "deprecated"
+	"category": "legacy"
    },
    {
         "title": "Web interfaces for the Mbed Device Connector",
@@ -612,7 +612,7 @@
             {"type": "markdown", "url": "https://github.com/ARMmbed/Connector-mDS-REST-API/blob/new-engine/docs/cloud_azure.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/Connector-mDS-REST-API/blob/new-engine/docs/cloud_watson.md"}
         ],
-	"category": "deprecated"
+	"category": "legacy"
    },
    {
    "title": "Migrating to Mbed Cloud Client",
@@ -623,7 +623,7 @@
        {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/porting_migrating/migrating-legacy/migration_from_mbed_client.md"},
        {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/porting_migrating/migrating-legacy/migration_from_mbed_cloud_client_1_1.md"}
    ],
-    "category": "deprecated"
+    "category": "legacy"
  },
  {
      "title": "Release notes",

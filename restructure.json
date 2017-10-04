@@ -53,7 +53,9 @@
         "type": "markdown",
         "sources": [
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/edge/edge_intro.md"}
-        ]
+        ],
+	"category": "guide",
+	"subcategory": "device"
     },
     {
         "title": "Cloud device prerequisites",
@@ -84,7 +86,9 @@
               {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/devices/device_identity.md"}
             ]
           }
-          ]
+          ],
+	"category": "guide",
+	"subcategory": "device"
     },
     {
         "title": "Provisioning with FCU",
@@ -145,7 +149,9 @@
               {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/provisioning/with_fcu/setup/fcu_maintenance.md"}
             ]
           }
-          ]
+          ],
+	"category": "guide",
+	"subcategory": "device"
     },
     {
         "title": "Provisioning without FCU",
@@ -182,7 +188,9 @@
               {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/provisioning/fcc_for_development.md"}
             ]
           }
-          ]
+          ],
+	"category": "guide",
+	"subcategory": "device"
     },
     {
         "title": "Connecting devices using Mbed Cloud Client",
@@ -222,7 +230,9 @@
               {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/connecting/tutorials/debugging_cloud_client.md"}
             ]
           }
-        ]
+        ],
+	"category": "guide",
+	"subcategory": "not device"
     },
     {
         "title": "Collecting data from devices",
@@ -263,7 +273,9 @@
               {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/collecting/manage_resources_portal.md"}
             ]
           }
-        ]
+        ],
+	"category": "guide",
+	"subcategory": "not device"
     },
     {
         "title": "Updating device firmware",
@@ -327,7 +339,9 @@
               {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/updating_firmware/secure_update_on_linux.md"}
             ]
           }
-        ]
+        ],
+	"category": "guide",
+	"subcategory": "not device"
     },
     {
         "title": "Integrating with third parties",
@@ -344,7 +358,9 @@
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/integrating/bridges_examples/cloud_amazon.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/integrating/bridges_examples/cloud_azure.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/integrating/bridges_examples/cloud_watson.md"}
-        ]
+        ],
+	"category": "guide",
+	"subcategory": "not device"
     },
     {
         "title": "Managing Cloud devices",
@@ -355,7 +371,9 @@
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/manage_deployed/manage_deployed_intro.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/manage_deployed/device_management.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/manage_deployed/device_filters_attributes.md"}
-            ]
+            ],
+	"category": "guide",
+	"subcategory": "not device"
     },
     {
         "title": "Managing your account",
@@ -367,7 +385,9 @@
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/admin/users.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/admin/account_limits.md"},
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/admin/account_security.md"}
-        ]
+        ],
+	"category": "guide",
+	"subcategory": "not device"
     },
     {
     "title": "Porting Mbed Cloud Client",
@@ -386,7 +406,9 @@
         {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/porting_migrating/porting_update/porting_update_tutorial.md"},
         {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/porting_migrating/tests.md"},
         {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/porting_migrating/pal_platform_util.md"}
-    ]
+    ],
+	"category": "guide",
+	"subcategory": "not device"
     },
     {
         "title": "Service API references",
@@ -401,7 +423,9 @@
             {"type": "swagger", "url": "https://github.com/ARMmbed/auth/blob/master/documentation/swagger/iam-identity-r1.2-swagger_combined.json"},
             {"type": "swagger", "url": "https://github.com/ARMmbed/device-server/blob/doc/public-cloud/doc-1.2/mDS-REST-API-v2.swagger.yaml"},
             {"type": "swagger", "url": "https://github.com/ARMmbed/mbed-connector-statistics/blob/branch-1.2/docs/swagger/rest-api-v3-external.yaml"}
-      ]
+      ],
+	"category": "guide",
+	"subcategory": "more device"
     },
     {
         "title": "Client API references",
@@ -412,7 +436,6 @@
         "sources": [
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/API_Ref/client_apis_intro.md"}
       ]
-    },
     {
         "title": "Mbed Client API references",
         "description": "The API references for Mbed Client.",

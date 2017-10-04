@@ -424,8 +424,8 @@
             {"type": "swagger", "url": "https://github.com/ARMmbed/device-server/blob/doc/public-cloud/doc-1.2/mDS-REST-API-v2.swagger.yaml"},
             {"type": "swagger", "url": "https://github.com/ARMmbed/mbed-connector-statistics/blob/branch-1.2/docs/swagger/rest-api-v3-external.yaml"}
       ],
-	"category": "guide",
-	"subcategory": "more device"
+	"category": "reference",
+	"tags": ["service-rest-apis"]
     },
     {
         "title": "Client API references",
@@ -435,7 +435,9 @@
         "example_panel": true,
         "sources": [
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/API_Ref/client_apis_intro.md"}
-      ]
+      ],
+	"category": "reference",
+	"tags": ["client=apis"]
     },
     {
         "title": "Mbed Client API references",

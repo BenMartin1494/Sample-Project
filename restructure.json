@@ -436,6 +436,7 @@
         "sources": [
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/API_Ref/client_apis_intro.md"}
       ]
+    },
     {
         "title": "Mbed Client API references",
         "description": "The API references for Mbed Client.",

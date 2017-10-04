@@ -503,7 +503,9 @@
         "tags": ["sdk"],
         "sources": [
             {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/integrating/sdks.md"}
-        ]
+        ],
+	"category": "reference",
+	"tags": ["client-sdks"]
     },
     {
         "title": "Mbed Cloud SDK .NET",

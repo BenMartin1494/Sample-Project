@@ -151,7 +151,7 @@
         "description": "End to end walkthroughs of mbed Cloud features",
         "slug": "mbed-cloud-tutorials",
         "type": "markdown",
-	    "category": "primary",
+	"category": "primary",
         "example_panel": true,
         "sources": [
 			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/tutorials_intro.md"},
@@ -174,7 +174,8 @@
 			{"type": "markdown", "url": "https://github.com/ARMmbed/connected-lights-cloud/blob/master/docs/9_conclusion.md"},
 			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/debugging_iot_devices.md"},
 			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/error_handling.md"}
-	]
+	],
+	"tags": ["tutorials"]
     },
     {
         "title": "mbed Client API references",

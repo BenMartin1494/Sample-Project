@@ -143,7 +143,8 @@
 			{"type": "swagger", "url": "https://github.com/ARMmbed/auth/blob/master/documentation/swagger/iam-identity-r1.2-swagger_combined.json"},
 			{"type": "swagger", "url": "https://github.com/ARMmbed/device-server/blob/doc/public-cloud/doc-1.2/mDS-REST-API-v2.swagger.yaml"},
 	    		{"type": "swagger", "url": "https://github.com/ARMmbed/mbed-connector-statistics/blob/branch-1.2/docs/swagger/rest-api-v3-external.yaml"}
-    	]
+    	],
+	"tags": ["references"]
     },
     {
         "title": "Tutorials",

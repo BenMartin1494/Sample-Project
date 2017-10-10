@@ -1,0 +1,322 @@
+[
+    {
+      "title": "Introduction to mbed Cloud",
+      "description": "A review of the main features of mbed Cloud",
+      "slug": "mbed-cloud-intro",
+      "type": "markdown",
+      "example_panel": true,
+      "category": "primary",
+      "sources": [
+        {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/intro/general_intro.md"}
+        ]
+    },
+    {
+      "title": "Develop and connect devices",
+      "description": "Develop and test embedded software for mbed Cloud connected devices",
+      "slug": "device-dev",
+      "type": "markdown",
+      "category": "guide",
+      "example_panel": true,
+        "sources": [
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/dev_intro.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/hardware_reqs_for_dev.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/software_req.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/connectivity_requirements.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/mbed-cloud-client/Introduction.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/mbed-cloud-client/client_setup_reg_unreg.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/mbed-cloud-client/Howto.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/create_obj_res.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/dev_man_serv_enable.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/info_reporting.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/data_types.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/mbed-cloud-client/registration_flows.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/cloud_connect_intro.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/mbed-cloud-client/BuildSystem.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/mbed-cloud-client/PortingInstructions.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/PAL_porting/Readme.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/PAL_porting/RTOS/Readme.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/PAL_porting/Networking/Readme.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/PAL_porting/Crypto/Readme.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/PAL_porting/FileSystem/Readme.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/PAL_porting/TLS/Readme.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/PAL_porting/Update/Readme.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/PAL_porting/Tests/Readme.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/PAL_porting/pal_platform_util.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/factory_for_developers.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/mbed-cloud-client/migration_from_mbed_client.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/mbed-cloud-client/migration_from_mbed_cloud_client_1_1.md"},
+          {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/device_dev/update_client_develop.md"}
+          ]
+        },
+        {
+        "title": "Manufacture and deploy devices",
+        "description": "Produce and deploy mbed Cloud devices at scale",
+        "slug": "mbed-cloud-deploy",
+        "type": "markdown",
+		      "category": "guide",
+        "example_panel": true,
+        "sources": [
+			     {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/deploy_intro.md"},
+			        {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/reqs_intro.md"},
+		     {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/hardware_reqs.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/software_req.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/connectivity_requirements.md"},
+	    	{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/provision_intro.md"},
+ 		    {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/provision_options_for_setup.md"},
+	    	{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/setup_intro.md"},
+	    	{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/using_own_CA.md"},
+	    	{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/certificate_properties.md"},
+	    	{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/cipher_suites.md"},
+	    	{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/fcu_as_ca.md"},
+   			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/bundle_injection_options.md"},
+   			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/without_fcu.md"},
+   			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/with_fcu.md"},
+   			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/device_params.md"},
+   			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/finalizing_factory.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/fcu_ref.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/fc_config_file.md"},
+	    	{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/fcu-apis.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/fcu_error_codes.md"},
+      {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/fcu_validation_notice_all_codes.md"},
+      {"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/setup_instructions/fcu_validation_notices_by_field.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/ft_demo_ref.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/factory/ft_demo_error_codes.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/deploy/update_client_deploy.md"}
+	]
+    },
+    {
+        "title": "Manage connected devices",
+        "description": "Update and configure deployed devices through mbed Cloud",
+        "slug": "mbed-cloud-management",
+        "type": "markdown",
+	    "category": "guide",
+        "example_panel": true,
+        "sources": [
+     		{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/management/management_intro.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/management/device_management.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/management/update_client_manage.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/manifest-tool-restricted/blob/v1.2rc2/README.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/manifest-tool-restricted/blob/v1.2rc2/manifest-format-0.9-draft.md"}
+        ]
+    },
+    {
+        "title": "Manage your account",
+        "description": "Administer and control access to your mbed Cloud account",
+        "slug": "mbed-cloud-admin",
+	    "category": "guide",
+        "type": "markdown",
+        "example_panel": true,
+        "sources": [
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/admin/admin_intro.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/admin/users.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/admin/account_limits.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/admin/account_security.md"}
+        ]
+    },
+
+    {
+        "title": "Cloud integrations",
+        "description": "Connect mbed Cloud to third party systems and software, or build web apps",
+        "slug": "mbed-cloud-web-apps",
+        "type": "markdown",
+	    "category": "guide",
+        "example_panel": true,
+        "sources": [
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/third_party/third_party_intro.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/third_party/api_keys.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/third_party/bridges.md"}
+	]
+    },
+    {
+        "title": "mbed Cloud API references",
+        "description": "The API references for mbed Cloud",
+        "slug": "api-references",
+        "type": "markdown",
+	    "category": "primary",
+        "example_panel": true,
+        "sources": [
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/API_Ref/api_links.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/API_Ref/all_apis_intro.md"},
+			{"type": "swagger", "url": "https://github.com/ARMmbed/update-service/blob/master/swagger/1.2/device-directory.yaml"},
+			{"type": "swagger", "url": "https://github.com/ARMmbed/update-service/blob/master/swagger/1.2/update-service.yaml"},
+			{"type": "swagger", "url": "https://github.com/ARMmbed/auth/blob/master/documentation/swagger/iam-identity-r1.2-swagger_combined.json"},
+			{"type": "swagger", "url": "https://github.com/ARMmbed/device-server/blob/doc/public-cloud/doc-1.2/mDS-REST-API-v2.swagger.yaml"},
+	    		{"type": "swagger", "url": "https://github.com/ARMmbed/mbed-connector-statistics/blob/branch-1.2/docs/swagger/rest-api-v3-external.yaml"}
+    	]
+    },
+    {
+        "title": "Tutorials",
+        "description": "End to end walkthroughs of mbed Cloud features",
+        "slug": "mbed-cloud-tutorials",
+        "type": "markdown",
+	    "category": "primary",
+        "example_panel": true,
+        "sources": [
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/tutorials_intro.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/client_example/getting_started_mbed_os_connect.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/client_example/getting_started_linux_connect.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/client_example/getting_started_manage_resources.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/client_example/getting_started_mbed_os_fwupdate.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/client_example/configure_cloud_example.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/client_example/mbed_os_setup.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/factory-client-example.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/update_via_apis.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/connected-lights-cloud/blob/master/docs/index.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/connected-lights-cloud/blob/master/docs/2_circuit.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/connected-lights-cloud/blob/master/docs/3_software.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/connected-lights-cloud/blob/master/docs/4_connectivity.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/connected-lights-cloud/blob/master/docs/5_controlling-from-cloud.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/connected-lights-cloud/blob/master/docs/6_cloud-api.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/connected-lights-cloud/blob/master/docs/7_app.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/connected-lights-cloud/blob/master/docs/8_updates.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/connected-lights-cloud/blob/master/docs/9_conclusion.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/debugging_iot_devices.md"},
+			{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/tutorials/error_handling.md"}
+	]
+    },
+    {
+        "title": "mbed Client API references",
+        "description": "The API references for mbed Client.",
+        "slug": "mbed-client",
+        "type": "doxygen",
+        "hidden": true,
+	 "category": "guide",
+        "source": "https://github.com/ARMmbed/mbed-cloud-client-restricted/",
+        "tag":"RR1.2.2-EA",
+        "options": {
+		"INPUT": "mbed-cloud-client-restricted/mbed-client/DOXYGEN_FRONTPAGE.md mbed-cloud-client-restricted/mbed-client/mbed-client",
+	    	"PREDEFINED": "__DOXYGEN__",
+		"USE_MDFILE_AS_MAINPAGE": "mbed-cloud-client-restricted/mbed-client/DOXYGEN_FRONTPAGE.md"
+        }
+    },
+    {
+        "title": "mbed Cloud Client API references",
+        "description": "The API references for mbed Cloud Client, a library that connects devices to mbed Cloud service and to mbed-enabled cloud services from our partners.",
+        "slug": "mbed-cloud-client",
+        "type": "doxygen",
+        "hidden": true,
+	    	 "category": "reference",
+        "source": "https://github.com/ARMmbed/mbed-cloud-client-restricted/",
+        "tag":"RR1.2.2-EA",
+        "options": {
+		"INPUT": "mbed-cloud-client-restricted/DOXYGEN_FRONTPAGE.md mbed-cloud-client-restricted/mbed-cloud-client",
+	    	"PREDEFINED": "__DOXYGEN__",
+		"USE_MDFILE_AS_MAINPAGE": "mbed-cloud-client-restricted/DOXYGEN_FRONTPAGE.md"
+        }
+    },
+    {
+      "title": "mbed Platform Abstraction Layer (PAL) API references",
+      "description": "The API references for the Platform Abstraction Layer, which contains all platform dependencies and reduces porting effort to basic OS building blocks.",
+      "slug": "pal",
+      "hidden": true,
+	    	 "category": "reference",
+      "type": "doxygen",
+      "source": "https://github.com/ARMmbed/mbed-cloud-client-restricted/",
+      "tag":"RR1.2.2-EA",
+      "options": {
+  		"INPUT": "mbed-cloud-client-restricted/mbed-client-pal/DOXYGEN_FRONTPAGE.md mbed-cloud-client-restricted/mbed-client-pal/Source/PAL-Impl/Services-API mbed-cloud-client-restricted/mbed-client-pal/Source/Port/Platform-API",
+           	"USE_MDFILE_AS_MAINPAGE": "mbed-cloud-client-restricted/mbed-client-pal/DOXYGEN_FRONTPAGE.md",
+            	"EXTRACT_ALL": "YES",
+           	"EXTRACT_ANON_NSPACES": "YES",
+		"EXCLUDE_PATTERNS": "*.md"
+        }
+    },
+    {
+        "title": "mbed factory configurator client API references",
+        "description": "The API references for mbed factory configurator client.",
+        "slug": "factory-client",
+        "hidden": true,
+        "type": "doxygen",
+	    	 "category": "reference",
+        "source": "https://github.com/ARMmbed/mbed-cloud-client-restricted/",
+        "tag":"RR1.2.2-EA",
+        "options": {
+		"INPUT":  "mbed-cloud-client-restricted/factory-configurator-client/DOXYGEN_FRONTPAGE.md mbed-cloud-client-restricted/factory-configurator-client/factory-configurator-client/factory-configurator-client mbed-cloud-client-restricted/factory-configurator-client/key-config-manager/key-config-manager mbed-cloud-client-restricted/factory-configurator-client/fcc-bundle-handler/fcc-bundle-handler",
+		"PREDEFINED": "__DOXYGEN__ DOXYGEN_SHOULD_SKIP_THIS",
+		"USE_MDFILE_AS_MAINPAGE": "mbed-cloud-client-restricted/factory-configurator-client/DOXYGEN_FRONTPAGE.md"
+        }
+    },
+    {
+        "title": "Release notes",
+        "description": "Release notes for mbed Cloud 1.2 and its patch releases, as well as previous versions",
+        "slug": "release-notes",
+        "type": "markdown",
+	    	 "category": "guide",
+        "example_panel": true,
+        "sources": [
+		{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/release_notes/release_notes.md"},
+		{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/release_notes/known_issues.md"},
+    		{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/release_notes/client_release_note.md"},
+		{"type": "markdown", "url": "https://github.com/ARMmbed/mbed-cloud-client/blob/R1.2_docs/docs/KnownIssues.md"},
+		{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.1/Docs/release_notes.md"},
+		{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.0/Docs/release_notes.md"},
+		{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R0.8/Docs/release_notes.md"},
+		{"type": "markdown", "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/R1.2/Docs/release_notes/client_release_notes_previous_versions.md"}
+        ]
+    },
+    {
+        "title": "mbed Cloud SDK .NET",
+        "description": "The mbed Cloud SDK gives developers access to the full mbed suite using .Net 4.5.",
+        "slug": "mbed-cloud-sdk-dotnet",
+        "hidden": true,
+	"tag": "1.2",
+	    	 "category": "reference",
+        "type": "doxygen",
+        "source": "https://github.com/ARMmbed/mbed-cloud-sdk-dotnet",
+        "options": {
+            "INPUT": "mbed-cloud-sdk-dotnet/mbedCloudSDK mbed-cloud-sdk-dotnet/ConsoleExamples/Examples mbed-cloud-sdk-dotnet/docs.md",
+            "EXAMPLE_PATH": "mbed-cloud-sdk-dotnet/ConsoleExamples/Examples",
+            "EXAMPLE_RECURSIVE": "YES",
+            "USE_MDFILE_AS_MAINPAGE": "mbed-cloud-sdk-dotnet/docs.md",
+            "EXCLUDE": "mbed-cloud-sdk-dotnet/mbedCloudSDK/Backends",
+            "OPTIMIZE_OUTPUT_FOR_C": "NO"
+        },
+        "tags": ["sdk", ".NET"]
+    },
+    {
+        "title": "mbed Cloud SDK JavaScript",
+        "description": "The mbed Cloud SDK gives developers access to the full mbed suite using JavaScript.",
+        "slug": "mbed-cloud-sdk-javascript",
+        "hidden": true,
+        "type": "typedoc",
+	    "category": "reference",
+        "source": "https://github.com/ARMmbed/mbed-cloud-sdk-javascript",
+	"source_dir": "mbed-cloud-sdk-javascript/src",
+	"tag": "1.2",
+	"options": {
+            "readme": "mbed-cloud-sdk-javascript/src/documentation.md",
+            "module": "commonjs",
+            "target": "es6",
+            "mode": "file",
+	    "exclude": "mbed-cloud-sdk-javascript/src/_api/*",
+            "excludeExternals": true,
+            "excludePrivate": true,
+            "hideGenerator": true,
+            "toc": "AccountManagementApi,CertificatesApi,ConnectApi,DeviceDirectoryApi,UpdateApi,ConnectionOptions"
+	},
+        "tags": ["sdk", "JavaScript"]
+    },
+    {
+        "title": "mbed Cloud SDK Python",
+        "description": "The mbed Cloud SDK gives developers access to the full mbed suite using Python.",
+        "slug": "mbed-cloud-sdk-python",
+        "hidden": true,
+        "type": "sphinx",
+	    "category": "reference",
+        "source": "https://github.com/ARMmbed/mbed-cloud-sdk-python",
+        "docs_dir": "docs",
+	"tag": "1.2",
+        "options": {
+            "templates_path": ["mbed-cloud-sdk-python/docs/_templates"],
+            "html_static_path": ["mbed-cloud-sdk-python/docs/_static"],
+            "html_sidebars": {
+                "**": [
+                    "logo.html",
+		    "globaltoc.html",
+                    "searchbox.html"
+                ]
+            }
+        },
+        "tags": ["sdk", "Python"]
+    }
+]

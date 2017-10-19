@@ -733,6 +733,7 @@
         "description": "",
         "slug": "service-api-references",
         "category": "reference",
+        "icon": "http://localhost:8002/static/img/RESTAPI.svg",
         "tags": ["service-rest-apis"],
         "type": "markdown",
         "example_panel": true,
@@ -767,6 +768,7 @@
         "description": "",
         "slug": "sdk-refrences",
         "category": "reference",
+        "icon": "http://localhost:8002/static/img/ClientAPI.svg",
         "tags": ["client-sdks"],
         "type": "markdown",
         "sources": [{
@@ -841,6 +843,7 @@
         "description": "",
         "slug": "client-api-references",
         "category": "reference",
+        "icon": "http://localhost:8002/static/img/ClientSDK.svg",
         "tags": ["client-apis"],
         "type": "markdown",
         "example_panel": true,

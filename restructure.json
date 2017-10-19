@@ -18,7 +18,7 @@
                     "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/connect/connect_intro.md"
                 }],
                 "category": "featured",
-                "icon": "http://localhost:8002/static/img/ManageConnections.png"
+                "icon": "http://cloud.preview.mbed.com/static/img/ManageConnections.png"
             },
             {
                 "title": "Mbed Cloud Update",
@@ -27,7 +27,7 @@
                     "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/update/update_intro.md"
                 }],
                 "category": "featured",
-                "icon": "http://localhost:8002/static/img/DevelopConnectDevices.png"
+                "icon": "http://cloud.preview.mbed.com/static/img/DevelopConnectDevices.png"
             },
             {
                 "title": "Mbed Cloud Provision",
@@ -36,7 +36,7 @@
                     "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/provision/provision_intro.md"
                 }],
                 "category": "featured",
-                "icon": "http://localhost:8002/static/img/ManufactureDeploy.png"
+                "icon": "http://cloud.preview.mbed.com/static/img/ManufactureDeploy.png"
             }
         ]
     },
@@ -733,7 +733,7 @@
         "description": "",
         "slug": "service-api-references",
         "category": "reference",
-        "icon": "http://localhost:8002/static/img/RESTAPI.svg",
+        "icon": "http://cloud.preview.mbed.com/static/img/RESTAPI.svg",
         "tags": ["service-rest-apis"],
         "type": "markdown",
         "example_panel": true,
@@ -768,7 +768,7 @@
         "description": "",
         "slug": "sdk-refrences",
         "category": "reference",
-        "icon": "http://localhost:8002/static/img/ClientAPI.svg",
+        "icon": "http://cloud.preview.mbed.com/static/img/ClientAPI.svg",
         "tags": ["client-sdks"],
         "type": "markdown",
         "sources": [{
@@ -843,7 +843,7 @@
         "description": "",
         "slug": "client-api-references",
         "category": "reference",
-        "icon": "http://localhost:8002/static/img/ClientSDK.svg",
+        "icon": "http://cloud.preview.mbed.com/static/img/ClientSDK.svg",
         "tags": ["client-apis"],
         "type": "markdown",
         "example_panel": true,

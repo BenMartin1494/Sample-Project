@@ -3,7 +3,6 @@
         "description": "",
         "slug": "introduction",
         "type": "markdown",
-        "category": "introduction",
         "sources": [{
                 "type": "markdown",
                 "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/intro/general_intro.md"

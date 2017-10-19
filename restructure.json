@@ -4,24 +4,33 @@
         "slug": "introduction",
         "type": "markdown",
         "category": "introduction",
-        "sources": [{
-                "type": "markdown",
-                "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/intro/general_intro.md"
+        "chapters": [{
+                "title": "Mbed Cloud introduction",
+                "sources": [{
+                    "type": "markdown",
+                    "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/intro/general_intro.md"
+                }]
             },
             {
-                "type": "markdown",
-                "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/connect/connect_intro.md",
-                "category": "featured"
+                "title": "Mbed Cloud Connect",
+                "sources": [{
+                    "type": "markdown",
+                    "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/connect/connect_intro.md"
+                }]
             },
             {
-                "type": "markdown",
-                "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/update/update_intro.md",
-                "category": "featured"
+                "title": "Mbed Cloud Update",
+                "sources": [{
+                    "type": "markdown",
+                    "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/update/update_intro.md"
+                }]
             },
             {
-                "type": "markdown",
-                "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/provision/provision_intro.md",
-                "category": "featured"
+                "title": "Mbed Cloud Update",
+                "sources": [{
+                    "type": "markdown",
+                    "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/provision/provision_intro.md"
+                }]
             }
         ]
     },

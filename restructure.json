@@ -18,7 +18,7 @@
                     "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/connect/connect_intro.md"
                 }],
                 "category": "featured",
-                "icon": "http://localhost:8000/static/img/ManageConnections.png"
+                "icon": "http://localhost:8002/static/img/ManageConnections.png"
             },
             {
                 "title": "Mbed Cloud Update",
@@ -27,7 +27,7 @@
                     "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/update/update_intro.md"
                 }],
                 "category": "featured",
-                "icon": "http://localhost:8000/static/img/ManageConnections.png"
+                "icon": "http://localhost:8002/static/img/ManageConnections.png"
             },
             {
                 "title": "Mbed Cloud Update",
@@ -36,7 +36,7 @@
                     "url": "https://github.com/ARMmbed/mbed_Cloud_Docs/blob/restructure/Docs/products/provision/provision_intro.md"
                 }],
                 "category": "featured",
-                "icon": "http://localhost:8000/static/img/ManageConnections.png"
+                "icon": "http://localhost:8002/static/img/ManageConnections.png"
             }
         ]
     },
